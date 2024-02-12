@@ -1,0 +1,32 @@
+{
+	"name": "es-define-property",
+	"version": "0.0.0",
+	"description": "`Object.defineProperty`, but not IE 8's broken one.",
+	"main": "index.js",
+	"exports": {
+		".": "./index.js",
+		"./package.json": "./package.json"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/es-define-property.git"
+	},
+	"keywords": [
+		"javascript",
+		"ecmascript",
+		"object",
+		"define",
+		"property",
+		"defineProperty",
+		"Object.defineProperty"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/es-define-property/issues"
+	},
+	"homepage": "https://github.com/ljharb/es-define-property#readme"
+}
