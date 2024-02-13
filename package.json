@@ -65,6 +65,9 @@
 	"engines": {
 		"node": ">= 0.4"
 	},
+	"testling": {
+		"files": "test/index.js"
+	},
 	"auto-changelog": {
 		"output": "CHANGELOG.md",
 		"template": "keepachangelog",
