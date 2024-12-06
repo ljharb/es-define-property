@@ -1,6 +1,6 @@
 {
 	"name": "es-define-property",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "`Object.defineProperty`, but not IE 8's broken one.",
 	"main": "index.js",
 	"types": "./index.d.ts",
